@@ -1,7 +1,7 @@
-## HI, I'm Paul Boyle
+## Hi, I'm Paul Boyle
 - 🔭 I’m currently working on implementing 2 new ERPs (Workday, UKG) 
 - 🌱 I’m currently learning Python & Go
-
+- ⚡ Fun fact: I enjoy learning new coding languages
 <!--
 **PCBToxin/PCBToxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
