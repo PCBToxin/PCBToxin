@@ -1,4 +1,6 @@
-## Hi there 👋
+## HI, I'm Paul Boyle
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 
 <!--
 **PCBToxin/PCBToxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
