@@ -2,6 +2,11 @@
 - 🔭 I’m currently working on implementing 2 new ERPs (Workday, UKG) 
 - 🌱 I’m currently learning Python & Go
 - ⚡ Fun fact: I enjoy learning new coding languages
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/6e394ae6-21cf-4173-bb52-f7f00ad40fd2/thumbnail" >
+</p>
+
 <!--
 **PCBToxin/PCBToxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
